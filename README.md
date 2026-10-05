@@ -32,7 +32,7 @@ This project analyzes supermarket sales data using Power BI to identify sales tr
 ## Project Files
 
 * `Supermarket_Sales_Dashboard.pbix` — Interactive Power BI dashboard file.
-* `Dashboard.png` — Dashboard preview image.
+* `Supermarket_Sales_Dashboard.png` — Dashboard preview image.
 
 ## Conclusion
 
