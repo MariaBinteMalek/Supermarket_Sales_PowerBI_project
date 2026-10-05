@@ -31,8 +31,8 @@ This project analyzes supermarket sales data using Power BI to identify sales tr
 
 ## Key Insights
 * City-wise Sales Performance: Naypyitaw recorded the highest sales among the three cities.
-*Product Line Performance: Food and Beverages was the highest-performing product line by sales.
-*Customer Analysis: Member customers generated slightly higher sales than Normal customers
+* Product Line Performance: Food and Beverages was the highest-performing product line by sales.
+* Customer Analysis: Member customers generated slightly higher sales than Normal customers
 
 ## Project Files
 
