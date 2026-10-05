@@ -35,8 +35,7 @@ This project analyzes supermarket sales data using Power BI to identify sales tr
 * `Supermarket_Sales_Dashboard.png` — Dashboard preview image.
 
 ## Dashboard Preview
-![Power BI Dashboard]
-(Supermarket_Sales_Dashboard.png)
+![Power BI Dashboard](Supermarket_Sales_Dashboard.png)
 ## Conclusion
 
 This project demonstrates practical skills in data visualization, business analysis, KPI reporting, and dashboard development using Power BI.
